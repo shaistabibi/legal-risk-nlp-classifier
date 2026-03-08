@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Models
+models/*.pkl
+
+# Data
+data/processed/
+
+# OS
+.DS_Store
+Thumbs.db
