@@ -212,7 +212,7 @@ Output:
 
 ---
 
-# 🖥 Run the Web Interface
+# Run the Web Interface
 
 Start the Streamlit application:
 
@@ -224,7 +224,7 @@ The web interface allows users to **paste legal clauses and receive AI predictio
 
 ---
 
-# 💡 Example Use Cases
+# Example Use Cases
 
 * Legal contract risk screening
 * Automated compliance monitoring
@@ -257,3 +257,4 @@ Focused on building **real-world AI systems including NLP, RAG pipelines, and pr
 # ⭐ If you find this project useful
 
 Please consider **starring the repository** on GitHub.
+
